@@ -108,10 +108,6 @@ Markdown 风格互转：
 /supermd 把这个文件从 Obsidian 转成 GFM
 ```
 
-## 许可证
-
-MIT
-
 ---
 
 <p align="center">Made with ❤️ by <a href="https://github.com/Ruyi0623">星核网络工作室 (SparkCore)</a></p>
