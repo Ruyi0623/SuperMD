@@ -1,0 +1,23 @@
+{
+  "skill_name": "markdown-generator",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "帮我写一份 Redis 使用指南，面向初学者，包含安装、基本数据类型操作（String、List、Hash）、以及 Python 客户端的使用示例",
+      "expected_output": "一份结构完整的 Redis 技术指南 Markdown，包含 h1 标题、h2 章节（安装/数据类型/Python客户端）、带语言标注的代码块、中文排版规范",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "帮我生成这个项目的 README：项目叫 SpiderX，是一个 Python 爬虫工具，可以从网页提取结构化数据，支持 CSS 选择器和 XPath，安装方式是 pip install spiderx，需要 Python 3.8+",
+      "expected_output": "一份标准的项目 README，包含项目名称和简介、安装方式、基本用法（带代码块）、依赖要求，遵循 README 模板结构",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "整理一下今天的会议记录：讨论了下周要上线的用户系统重构，决定分两个阶段发布，第一版只做登录注册，第二版加权限管理。参会的有张三、李四、我。时间是2026年5月16日",
+      "expected_output": "一份格式规范的会议记录 Markdown，包含日期、参会人员、讨论内容、阶段性决策、行动项（带 checkbox）",
+      "files": []
+    }
+  ]
+}
